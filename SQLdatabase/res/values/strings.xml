@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLdatabase</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name_first">"First Name "</string>
+    <string name="name_last">Last Name</string>
+    <string name="email_text">Email</string>
+    <string name="showButton">show table</string>
+    <string name="dataButton">Data</string>
+    <string name="dataAddString">Add Data</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="deleteString">Delete All</string>
+    <string name="addstring">Add Record</string>
+    <string name="deletestring">Delete Record</string>
+    <string name="recordstring">Show Record</string>
+    <string name="resetsr">Reset Record</string>
+
+</resources>
