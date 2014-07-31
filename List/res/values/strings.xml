@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">list</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="firstString">First Name:</string>
+    <string name="secondString">Last Name:</string>
+    <string name="emailString">Email:</string>
+    <string name="showString">Show Record</string>
+    <string name="addstring">Add Record</string>
+    <string name="show">Show Record</string>
+    <string name="deletestriing">Delete Record</string>
+    <string name="resetString">Reset Record</string>
+    <string name="title_activity_display">DisplayActivity</string>
+
+</resources>
